@@ -1,11 +1,40 @@
 <%@ page language="java" contentType="text/html; charset=utf-8" pageEncoding="utf-8"%>
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Insert title here</title>
+    <meta charset="UTF-8">
+    <title></title>
+    <style>
+        *{
+            margin: 0;
+            padding:0;
+        }
+        html,body{
+            height: 100%;
+            width: 100%;
+        }
+        .box{
+            height: 100%;
+            width: 100%;
+            position: relative;
+        }
+        .box div{
+            position: absolute;
+            padding: 10%;
+            text-align: center;
+            margin: auto;
+        }
+    </style>
 </head>
 <body>
-<h2>test programme!</h2>
+<div class="box">
+    <div>
+        »¶Ó­Ê¹ÓÃTongWeb£¬Èç¹ûÄúÄÜ¿´µ½Õâ¸ö½çÃæ±íÊ¾ÄúµÄTongWeb·þÎñÒÑ¾­ÔÚÕý³£ÔËÐÐ¡£<br/>
+        <a href="/console">½øÈëTongWeb¹ÜÀí¿ØÖÆÌ¨</a>
+    </div>
+</div>
+
+
+
 </body>
 </html>
