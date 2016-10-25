@@ -29,8 +29,8 @@
 <body>
 <div class="box">
     <div>
-        »¶Ó­Ê¹ÓÃTongWeb£¬Èç¹ûÄúÄÜ¿´µ½Õâ¸ö½çÃæ±íÊ¾ÄúµÄTongWeb·þÎñÒÑ¾­ÔÚÕý³£ÔËÐÐ¡£<br/>
-        <a href="/console">½øÈëTongWeb¹ÜÀí¿ØÖÆÌ¨</a>
+        æ¬¢è¿Žä½¿ç”¨TongWebï¼Œå¦‚æžœæ‚¨èƒ½çœ‹åˆ°è¿™ä¸ªç•Œé¢è¡¨ç¤ºæ‚¨çš„TongWebæœåŠ¡å·²ç»åœ¨æ­£å¸¸è¿è¡Œã€‚<br/>
+        <a href="/console">è¿›å…¥TongWebç®¡ç†æŽ§åˆ¶å°</a>
     </div>
 </div>
 
