@@ -29,6 +29,7 @@
 <body>
 <div class="box">
     <div>
+    	这是使用openshift template自动构建出来的项目。
         欢迎使用TongWeb，如果您能看到这个界面表示您的TongWeb服务已经在正常运行。<br/>
         <a href="/console">进入TongWeb管理控制台</a>
     </div>
